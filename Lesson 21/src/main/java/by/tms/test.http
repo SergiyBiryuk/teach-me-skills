@@ -1,0 +1,9 @@
+GET http://localhost:8080/main?a=100&b=5&op=div
+
+###
+
+GET http://localhost:8080/main?a=2&b=100&op=sub
+
+###
+
+
